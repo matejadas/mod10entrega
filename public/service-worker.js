@@ -8,6 +8,7 @@ const CACHE_NAME = 'static-cache';
 // 2 Array con los ficheros que hay que cachear
 const FILES_TO_CACHE = [
   '/index.html',
+  '/offline.html',
   '/game.css',
   '/install.js',
   '/Character.js',
@@ -17,7 +18,7 @@ const FILES_TO_CACHE = [
   '/Opponent.js',
   '/Player.js',
   '/Shot.js',
-  '/assets/buenomuerto.png',
+  '/assets/bueno_muerto.png',
   '/assets/bueno.png',
   '/assets/game_over.png',
   '/assets/jefe_muerto.png',
