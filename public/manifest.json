@@ -1,0 +1,20 @@
+{
+    "name": "Shooter Game",
+    "short_name": "Shooter Game",
+    "start_url": "index.html",
+    "display": "minimal-ui",
+    "background_color": "black",
+    "description": "Ejercicio PWA módulo 10 Miguel Ángel Tejadas",
+    "icons": [
+        {
+            "src": "assets/iconShooterGame192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/iconShooterGame512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
